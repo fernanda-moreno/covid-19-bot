@@ -16,7 +16,7 @@ def create_tweet():
             FL Recovered: {recovered}
             FL Deaths: {deaths}
             Source: https://www.worldometers.info/coronavirus/
-            #coronavirus #covid19 #coronavirusupdates
+            #covid19 #coronavirusupdates
             '''
 
     return tweet
